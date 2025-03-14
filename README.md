@@ -2,7 +2,7 @@
 
 # KekikIPTV
 
-- [KekikIPTV](https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/main/Kanallar/KekikAkademi.m3u)
+- [KekikIPTV](https://raw.githubusercontent.com/maarrem/IPTV-Kekik/main/Kanallar/KekikAkademi.m3u)
 
 ## PC İçin IPTV Önerisi
 
@@ -55,7 +55,12 @@ vlc --meta-title="NBA TV" \
     'https://3.trgoalshls97.shop/yayinnbatv.m3u8'
 ```
 
-## 💻 Katkı Sağlayanlar
-<a href="https://github.com/keyiflerolsun/IPTV_YenirMi/graphs/contributors?selectedMetric=additions" target="_blank">
-  <img src="https://contrib.rocks/image?repo=keyiflerolsun/IPTV_YenirMi" />
+---
+
+💬 via : https://forum.sinetech.tr/
+
+---
+
+<a href="https://github.com/maarrem/IPTV-Kekik/graphs/contributors?selectedMetric=additions" target="_blank">
+  <img src="https://contrib.rocks/image?repo=maarrem/IPTV-Kekik" />
 </a>
