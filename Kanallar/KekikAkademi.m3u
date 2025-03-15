@@ -210,8 +210,7 @@ https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 # ? http://stream.tvcdn.net/spor/sports-tv.m3u8/
 
 #EXTINF:-1 tvg-name="beIN SPORTS Haber" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTSHaber" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg.webp" group-title="Spor",beIN SPORTS Haber
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742064765/ei/HXjVZ-SiHPrxi9oPp-uzmQM/ip/78.190.154.230/id/VCl1wO81VdM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3xF2YNeWlG3VjnVjpEaYoQ4pAbjd7g4b3vwHqGqVnuUlsVBCdwv_RYE-cAm2V_tkKV4A0as_a7u/spc/RjZbSV8vmUIxceUbhr3Pkoi7m-1OsvdmUD7NwCeVe6j9MfZ1iWjTX86T9LSJ2lY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIRnokMPAHFnVCkljAkGZb-NN6qGpU5K-70-zjgkCeayAiBYI89T6kdZSMv8zre3V_EOu9ZPqRzfOzULMH1ySctsuw%3D%3D/file/index.m3u8
-# ? https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8# ? https://ythls.kekikakademi.org/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 # ? http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 
 #EXTINF:-1 tvg-name="TJK TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
