@@ -184,7 +184,7 @@ http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
-https://trkvz-live.daioncdn.net/minikago/minikago_480p-1742109640000.ts?e=1742154847&st=JcmKFQlCJMpTdKwdTzJzrA
+https://trkvz-live.daioncdn.net/minikago/minikago_480p-1742109640000.m3u8?e=1742154847&st=JcmKFQlCJMpTdKwdTzJzrA
 
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaCocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
 https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk_720p-1742109670000.ts?e=1742154889&st=fkzHJfYE0G-crmRukp36qQ
@@ -192,6 +192,9 @@ https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk_720p-1742109670000
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 # ? https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Boomerang" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_Boomerang" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/300px-Boomerang_2014_logo.svg.png" group-title="ÇizgiFilm",Boomerang
+https://ythls.kekikakademi.org/youtube/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
 
 #EXTINF:-1 tvg-name="Zarok TV" tvg-language="Kurdish" tvg-country="IR" tvg-id="CizgiFilm_ZarokTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png" group-title="ÇizgiFilm",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
