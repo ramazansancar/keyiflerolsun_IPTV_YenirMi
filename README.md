@@ -1,8 +1,6 @@
-# IPTV Yenir Mi?
+# IPTV-Kekik
 
-# KekikIPTV
-
-- [KekikIPTV](https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/main/Kanallar/KekikAkademi.m3u)
+- [KekikIPTV](https://raw.githubusercontent.com/ramazansancar/keyiflerolsun_IPTV_YenirMi/main/Kanallar/KekikAkademi.m3u)
 
 ## PC İçin IPTV Önerisi
 
@@ -56,6 +54,7 @@ vlc --meta-title="NBA TV" \
 ```
 
 ## 💻 Katkı Sağlayanlar
-<a href="https://github.com/keyiflerolsun/IPTV_YenirMi/graphs/contributors?selectedMetric=additions" target="_blank">
-  <img src="https://contrib.rocks/image?repo=keyiflerolsun/IPTV_YenirMi" />
+
+<a href="https://github.com/ramazansancar/keyiflerolsun_IPTV_YenirMi/graphs/contributors?selectedMetric=additions" target="_blank">
+  <img src="https://contrib.rocks/image?repo=ramazansancar/keyiflerolsun_IPTV_YenirMi" />
 </a>
