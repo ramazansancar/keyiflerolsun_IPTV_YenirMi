@@ -431,9 +431,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decb
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 
 
+# * » Diğer « * #
+#EXTINF:-1 tvg-name="Akıllı Tv" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_AkilliTV" tvg-logo="https://akillitv.com.tr/wp-content/uploads/2024/07/akilli-tv-logo20-12-20-300x252.png" group-title="Diğer",Akıllı Tv
+https://yayin.santraltr.com/hls/akillitv.m3u8
 
+#EXTINF:-1 tvg-name="IBB Tv" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_IBBTV" tvg-logo="https://uploads.ibb.istanbul/uploads/ibb_logo_ed767be97d.svg" group-title="Diğer",IBB Tv
+https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist_w1097071977.
 
-
+#EXTINF:-1 tvg-name="Şaban Canlı" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_SabanCanli" tvg-logo="https://i.ytimg.com/vi/FGL1GwoRRIw/mqdefault.jpg" group-title="Diğer",Şaban Canlı
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742264618/ei/yoTYZ7KiDoaf6dsPy-7IsQo/ip/92.205.151.109/id/hfx8H7YrmTw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414240/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcMbh9PHpYYF9ICeY8UXtXwJRF3zBbMVOAOfGs-Tw3I6QE4B0bwbSEHUuPewB_czKhyKYOT5f-Cr/spc/_S3wKllqNOkLPw7tJvj_uxgd4_s-uS5aKH4LK9vLyHbSZSAUle81QTkxIGFeiN_wX1baEjs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51358317%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJyKliRAdFiXFQqaLVIDYQEKP4rhG8grO74YFdD9s2iRAiEA0A-ZCt8auhsNu78NPy6DJdKqPl7mAqgqaNcRi6khJzU%3D/file/index.m3u8
 
 
 # * » Rahatlatıcı « * #
