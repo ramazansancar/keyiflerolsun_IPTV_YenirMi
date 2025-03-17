@@ -78,6 +78,9 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 # ? https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 
+#EXTINF:-1 tvg-name="Dim TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_DimTV" tvg-logo="https://dimtv.tv/wp-content/uploads/2020/08/LOGO.png" group-title="Haber",Dim TV
+https://canli.dimtv.tv/hls/dim/index.m3u8
+
 
 
 # * » Belgesel « * #
@@ -96,7 +99,8 @@ https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 tvg-name="Çiftçi TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_CiftciTV" tvg-logo="https://www.ciftcitv.com/wp-content/uploads/2021/02/favicon.png" group-title="Belgesel",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="Yaban TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_YabanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png" group-title="Belgesel",Yaban TV
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=fd0aef9859f27752b5c3118e81e66da4
 
 # * » Genel « * #
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
