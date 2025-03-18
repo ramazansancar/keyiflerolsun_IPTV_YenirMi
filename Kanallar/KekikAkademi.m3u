@@ -196,6 +196,9 @@ http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaCocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 
+#EXTINF:-1 tvg-name="Boomerang" tvg-language="English" tvg-country="USA" tvg-id="CizgiFilm_Boomerang" tvg-logo="https://img.youtube.com/vi/IJbbpAhjboI/maxresdefault.jpg" group-title="ÇizgiFilm",Boomerang
+https://ythls.kekikakademi.org/youtube/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
+
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 # ? https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
@@ -443,6 +446,16 @@ https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
 
 #EXTINF:-1 tvg-name="Yeşilcam Canlı" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_YesilcamCanli" tvg-logo="https://img.youtube.com/vi/UgKxh04Iv9o/maxresdefault.jpg" group-title="Diğer",Yeşilcam Canlı
 https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+
+#EXTINF:-1 tvg-name="Behzat Ç" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_BehzatcCanli" tvg-logo="https://img.youtube.com/vi/V6_46VDV1dY/maxresdefault.jpg" group-title="Diğer",Behzat ç Canlı
+https://ythls.kekikakademi.org/youtube/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
+
+#EXTINF:-1 tvg-name="Kurtlar vadisi" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_KurtlarVadisiCanli" tvg-logo="https://img.youtube.com/vi/uNHRbbWXmtA/maxresdefault.jpg" group-title="Diğer",Kurtlar Vadisi Canlı
+https://ythls.kekikakademi.org/youtube/channel/UCABzirZ6FyebIf8YSptKMwQ.m3u8
+
+#EXTINF:-1 tvg-name="Kurtlar vadisi pusu" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_KurtlarVadisiPusuCanli" tvg-logo="https://img.youtube.com/vi/MmDuC4jmba0/maxresdefault.jpg" group-title="Diğer",Kurtlar Vadisi Pusu Canlı
+https://ythls.kekikakademi.org/youtube/channel/UCz1UfNp9VFp9R1HEFn5PY5A.m3u8
+
 
 # * » Rahatlatıcı « * #
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
