@@ -441,6 +441,9 @@ https://hls.ibb.gov.tr/tv/webtv/webtv_wowza1/chunklist_w1097071977.
 #EXTINF:-1 tvg-name="Şaban Canlı" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_SabanCanli" tvg-logo="https://i.ytimg.com/vi/FGL1GwoRRIw/mqdefault.jpg" group-title="Diğer",Şaban Canlı
 https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
 
+#EXTINF:-1 tvg-name="Yeşilcam Canlı" tvg-name="Turkish" tvg-country="TR" tvg-id="Diger_YesilcamCanli" tvg-logo="https://img.youtube.com/vi/UgKxh04Iv9o/maxresdefault.jpg" group-title="Diğer",Yeşilcam Canlı
+https://ythls.kekikakademi.org/youtube/channel/UCHumSHRFQ8skiHTY75sxytQ.m3u8
+
 # * » Rahatlatıcı « * #
 #EXTINF:-1 tvg-name="Ateş Başı" tvg-language="Russian" tvg-country="RU" tvg-id="Rahat_AtesBasi" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/b524a99a-92d1-49a4-bb81-fda99617db2c.png" group-title="Rahatlatıcı",Ateş Başı
 https://ythls.kekikakademi.org/youtube/channel/UCMlIZGBeueCZBUmEP-PddJg.m3u8
