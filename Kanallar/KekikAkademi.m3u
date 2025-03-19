@@ -86,6 +86,15 @@ https://canli.dimtv.tv/hls/dim/index.m3u8
 
 
 # * » Belgesel « * #
+#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg" group-title="Belgesel",DISCOVERY CHANNEL
+http://uzatmapikachu.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5NTcwNTc3OGUyOTUxYTQ0MDhjZg==
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://account.nationalgeographic.com/media/national-geographic/media/National-Geographic-Logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC
+http://uzatmapikachu.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NDU2NjA2MzBiODE1ZTAxNGYxOGM=
+
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
+http://uzatmapikachu.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjQxNjYxNjJmODM5MWE3Y2E2Mw==
+
 #EXTINF:-1 tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
