@@ -86,7 +86,7 @@ https://canli.dimtv.tv/hls/dim/index.m3u8
 
 
 # * » Belgesel « * #
-#EXTINF:-1 tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg" group-title="Belgesel",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://alfredojunior.wordpress.com/wp-content/uploads/2013/01/discovery-channel-logo.jpg" group-title="Belgesel",DISCOVERY CHANNEL
 http://uzatmapikachu.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5NTcwNTc3OGUyOTUxYTQ0MDhjZg==
 
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://account.nationalgeographic.com/media/national-geographic/media/National-Geographic-Logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC
