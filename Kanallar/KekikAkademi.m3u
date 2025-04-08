@@ -113,6 +113,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 # ? https://c.fulltvizle.com/aytv/index.m3u8
 # ? http://stream.tvcdn.net/ulusal/atv.m3u8
+# ? https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_FoxTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
@@ -121,16 +122,22 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+https://bcovlive-a.akamaihd.net/ccee7091e86040d18e14cd0efef2a51b/eu-central-1/6415845530001/playlist.m3u8
+# ? https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-name="TV 8.5" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8.5" tvg-logo="https://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Genel",TV 8.5
+https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/playlist.m3u8
+# ? https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+# ? https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-name="Teve2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_Teve2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="Genel",Teve2
-https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
 #EXTINF:-1 tvg-name="A2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_A2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg?20161129163613" group-title="Genel",A2
 http://stream.tvcdn.net/eglence/a2.m3u8
@@ -234,6 +241,36 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="FB TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_FBTV" tvg-logo="https://seeklogo.com/images/F/fenerbahce-tv-logo-A4F539D377-seeklogo.com.png" group-title="Spor",FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
+
+#EXTINF:-1 tvg-name="S Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSport1" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",S Sport 1
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="S Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_SSport2" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor1" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 1
+https://bcovlive-a.akamaihd.net/fe1c4a0174f5439a91769ba935a1c963/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor2" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 2
+https://bcovlive-a.akamaihd.net/126009977a734520bb8b95169e4629d5/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor3" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 3
+https://bcovlive-a.akamaihd.net/b620a434148142a6a06cf1b8e455bc56/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor4" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 4
+https://bcovlive-a.akamaihd.net/123fd5eb3a27451ea2156ee9a86ce06c/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor5" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 5
+https://bcovlive-a.akamaihd.net/2c5b60973fd5462b96a3ccc857894faa/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor6" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 6
+https://bcovlive-a.akamaihd.net/5910a56c4da2424baad4380d1dcdd8de/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 7" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor7" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 7
+https://bcovlive-a.akamaihd.net/b07fcc1db2a94487ab2d22582f31b626/eu-central-1/6415845530001/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Exxen Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_ExxenSpor8" tvg-logo="https://i.hizliresim.com/ioxh9th.png" group-title="Spor",Exxen Spor 8
+https://bcovlive-a.akamaihd.net/16fc8c683b034525b1706f75439f14fb/eu-central-1/6415845530001/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-language="English" tvg-country="USA" tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -341,7 +378,6 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex1.m3u8
 # ? #EXTVLCOPT:http-referrer=https://trgoals1240.xyz/
 # ? https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex7.m3u8
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-
 
 #EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
 # ? #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
